@@ -1,0 +1,1 @@
+This is foundation course from the oddin project
